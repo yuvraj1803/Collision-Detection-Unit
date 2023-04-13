@@ -1,0 +1,6 @@
+../Src/car-unit-src/cu.c:23:6:GPIOB_INIT	4	static
+../Src/car-unit-src/cu.c:65:6:PB_1_HIGH	4	static
+../Src/car-unit-src/cu.c:69:6:PB_1_LOW	4	static
+../Src/car-unit-src/cu.c:76:6:car_init	8	static
+../Src/car-unit-src/cu.c:81:6:car_start	8	static
+../Src/car-unit-src/cu.c:86:6:car_stop	8	static

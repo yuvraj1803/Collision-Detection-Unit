@@ -1,0 +1,8 @@
+../Src/kernel/../core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Src/kernel/kernel.c:78:6:cpu_yield	4	static
+../Src/kernel/kernel.c:89:6:_loop_	4	static
+../Src/kernel/kernel.c:96:6:kernel_init	8	static
+../Src/kernel/kernel.c:124:6:stk_init	16	static
+../Src/kernel/kernel.c:160:6:kernel_launch	8	static,ignoring_inline_asm
+../Src/kernel/kernel.c:223:7:add_thread	24	static,ignoring_inline_asm
+../Src/kernel/kernel.c:262:7:add_periodic_thread	24	static,ignoring_inline_asm

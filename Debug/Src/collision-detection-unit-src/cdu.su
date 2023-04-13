@@ -1,0 +1,3 @@
+../Src/collision-detection-unit-src/cdu.c:25:10:GPIOB_PB2_READ	4	static
+../Src/collision-detection-unit-src/cdu.c:36:6:proximity_sensor_init	8	static
+../Src/collision-detection-unit-src/cdu.c:42:9:get_proximity	8	static
